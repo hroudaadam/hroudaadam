@@ -9,7 +9,7 @@ Hi! My name is Adam Hrouda. I am Czech student and developer.
 
 ## Skills
 
-- .NET
+- .NET (mainly Web APIs)
 - JavaScript
 - Vue.js
 - SQL

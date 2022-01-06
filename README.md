@@ -10,8 +10,13 @@ Hi! My name is Adam Hrouda. I am Czech student and developer.
 
 ## Skills
 
-- .NET (mainly Web APIs)
-- JavaScript
+- .NET (mainly Web API)
 - Vue.js
 - SQL
 - HTML
+
+## I have also worked with
+
+- Express.js
+- React.js
+- Python

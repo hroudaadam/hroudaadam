@@ -1,8 +1,8 @@
 ## hroudaadam 🐢
 
-Hi! My name is Adam Hrouda. I am Czech student and developer.
+Hi! My name is Adam Hrouda. I am Czech student and developer with appetite for knowledge.
 
-My favourite technologies: `ASP.NET, Vue.js, p5.js`. However always eager to learn and try anything else.
+My favourite technologies: `ASP.NET, Vue.js, p5.js`.
 
 **Main projects:**
 - [Onion architecture](https://github.com/hroudaadam/onion-architecture) - ASP.NET Web API template inspired by Onion architecture
